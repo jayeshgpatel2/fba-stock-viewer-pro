@@ -1,0 +1,5 @@
+{
+  "name": "FBA Stock Viewer Pro",
+  "description": "Advanced dashboard for visualizing FBA inventory, inbound shipments, and stock levels across multiple fulfillment centers.",
+  "requestFramePermissions": []
+}
