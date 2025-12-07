@@ -1,0 +1,9 @@
+[build]
+command = "npm run build"
+directory = "dist"
+
+[environment.production]
+NODE_VERSION = "20"
+
+[environment]
+packageManager = "npm"
