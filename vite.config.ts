@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/fba-stock-viewer-pro/',  // Change this to your repository name
+      base: '/',  // Change this to your repository name
       server: {
         port: 3000,
         host: '0.0.0.0',
