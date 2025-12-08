@@ -6,7 +6,7 @@ export const API_URL = 'https://g6l77ibfqe.execute-api.ap-south-1.amazonaws.com/
 export const STATE_CONFIG: Record<string, { label: string; fcs: string[]; colorClass: string; short: string }> = {
   karnataka: { label: 'Karnataka', short: 'KA', fcs: ['BLR7', 'BLR8'], colorClass: 'bg-violet-500' },
   maharashtra: { label: 'Maharashtra', short: 'MH', fcs: ['BOM4', 'BOM5', 'BOM7', 'PNQ3', 'NAX1', 'SBOB'], colorClass: 'bg-pink-500' },
-  tamilnadu: { label: 'Tamil Nadu', short: 'TN', fcs: ['MAA4', 'CJBT'], colorClass: 'bg-teal-500' },
+  tamilnadu: { label: 'Tamil Nadu', short: 'TN', fcs: ['MAA4', 'CJB1'], colorClass: 'bg-teal-500' },
   telangana: { label: 'Telangana', short: 'TS', fcs: ['HYD8', 'HYD3'], colorClass: 'bg-amber-500' },
   uttarpradesh: { label: 'UP', short: 'UP', fcs: ['LKO1', 'UP1'], colorClass: 'bg-indigo-500' },
   westbengal: { label: 'West Bengal', short: 'WB', fcs: ['CCX1', 'CCX2'], colorClass: 'bg-cyan-600' },
